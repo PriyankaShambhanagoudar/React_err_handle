@@ -42,7 +42,7 @@ const App = () => {
       </section>
       <section id="goals">
         {content}
-      </section>
+      </section> 
 
   );
 };
